@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DashboardConfig.cs](./CS/WebDashboard_EFDataSource/App_Start/DashboardConfig.cs) (VB: [DashboardConfig.vb](./VB/WebDashboard_EFDataSource/App_Start/DashboardConfig.vb))
+* [HomeController.cs](./CS/WebDashboard_EFDataSource/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/WebDashboard_EFDataSource/Controllers/HomeController.vb))
+* [Global.asax.cs](./CS/WebDashboard_EFDataSource/Global.asax.cs) (VB: [Global.asax.vb](./VB/WebDashboard_EFDataSource/Global.asax.vb))
+* [NorthwindDataModel.cs](./CS/WebDashboard_EFDataSource/Models/NorthwindDataModel.cs) (VB: [NorthwindDataModel.vb](./VB/WebDashboard_EFDataSource/Models/NorthwindDataModel.vb))
+* [SalesPerson.cs](./CS/WebDashboard_EFDataSource/Models/SalesPerson.cs) (VB: [SalesPerson.vb](./VB/WebDashboard_EFDataSource/Models/SalesPerson.vb))
+* [Index.cshtml](./CS/WebDashboard_EFDataSource/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # ASP.NET MVC Dashboard - How to bind a dashboard to an Entity Framework Data Source
 
 
