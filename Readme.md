@@ -13,6 +13,6 @@
 
 <p>The following example shows how to add the Entity Framework data source to the Web Dashboard's list of data sources available to end-users. In this example, the <a href="https://documentation.devexpress.com/Dashboard/DevExpress.DashboardCommon.DashboardEFDataSource.class">DashboardEFDataSource</a> class is used to establish a connection to the Entity Framework data source.</p>
 
-<br/>
+## Documentation
 
-
+- [Entity Framework Data Source](https://docs.devexpress.com/Dashboard/401432/web-dashboard/dashboard-backend/register-default-data-sources-for-the-aspnet-mvc-framework/entity-framework-data-source)
