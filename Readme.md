@@ -13,7 +13,8 @@
 * [SalesPerson.cs](./CS/WebDashboard_EFDataSource/Models/SalesPerson.cs) (VB: [SalesPerson.vb](./VB/WebDashboard_EFDataSource/Models/SalesPerson.vb))
 * [Index.cshtml](./CS/WebDashboard_EFDataSource/Views/Home/Index.cshtml)
 <!-- default file list end -->
-# ASP.NET MVC Dashboard - How to bind a dashboard to an Entity Framework Data Source
+
+# Dashboard for MVC - Bind a dashboard to an Entity Framework Data Source
 
 
 The following example shows how to add the Entity Framework data source to the Web Dashboard's list of data sources available to end-users. In this example, the [DashboardEFDataSource](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.DashboardEFDataSource) class is used to establish a connection to the Entity Framework data source.
