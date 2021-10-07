@@ -8,10 +8,10 @@ using WebDashboard_EFDataSource.Models;
 namespace WebDashboard_EFDataSource {
     public static class DashboardConfig {
         public static void RegisterService(RouteCollection routes) {
-            routes.MapDashboardRoute("dashboardControl");
+            routes.MapDashboardRoute("dashboardControl","DefaultDashboard");
             DashboardFileStorage dashboardFileStorage = new DashboardFileStorage("~/App_Data/Dashboards");
             DashboardConfigurator.Default.SetDashboardStorage(dashboardFileStorage);
-            
+
             DataSourceInMemoryStorage dataSourceStorage = new DataSourceInMemoryStorage();
 
             // Registers an Entity Framework data source.
